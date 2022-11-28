@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccacf13e.css",
+    "main.js": "/static/js/main.94537ceb.js",
+    "static/js/787.358563c7.chunk.js": "/static/js/787.358563c7.chunk.js",
+    "static/media/trade.webp": "/static/media/trade.ea21d364fad8c2ed32a2.webp",
+    "static/media/reactLogo.png": "/static/media/reactLogo.f3e576ba08e6be927148.png",
+    "index.html": "/index.html",
+    "main.ccacf13e.css.map": "/static/css/main.ccacf13e.css.map",
+    "main.94537ceb.js.map": "/static/js/main.94537ceb.js.map",
+    "787.358563c7.chunk.js.map": "/static/js/787.358563c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccacf13e.css",
+    "static/js/main.94537ceb.js"
+  ]
+}
